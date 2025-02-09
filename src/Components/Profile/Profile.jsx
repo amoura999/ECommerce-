@@ -47,7 +47,7 @@ export default function Profile() {
                 <div className="card-body">
                   <div className="">
                     <div className="profile-photo me-4">
-                      <img src={require('../../imgs/images/profile-pic.png')} alt="Profile" className="img-fluid rounded-circle w-25" />
+                      <img src={require('../../imgs/images/amrphoto.jpg')} alt="Profile" className="img-fluid rounded-circle w-25" />
                     </div>
                     <div>
                       <h2 className="card-title mb-0">{name}</h2>
